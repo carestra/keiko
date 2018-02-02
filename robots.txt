@@ -1,0 +1,10 @@
+# den sökrobot som följande regel gäller för
+User-agent: *
+
+# den webbadress du vill blockera
+Disallow: /ws/
+Disallow: /cms_old/
+Disallow: /old/
+Disallow: /k14/
+Disallow: /ang
+

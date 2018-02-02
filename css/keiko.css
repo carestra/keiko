@@ -1,0 +1,152 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* ### breadcrumb */
+.breadcrumb {
+	height: 36px;
+}
+/* ##### Top menu */
+.navbar-brand {
+	margin-top: 20px;
+	margin-left: 30px;
+	font-size: 70px;
+	line-height: 30px;
+}
+
+.navbar-header small {
+	padding-left: 6px;
+	font-size: 30%;
+}
+
+@media (min-width: 768px) {
+	.navbar-right {
+		margin-top: 46px;
+		margin-right: 5px;
+	}
+}
+
+/* ##### bottom well */
+/* address, map*/
+.map-address {
+  padding: 0px;
+}
+
+/* Social Icons Styles */
+.list-social-icons {
+  margin-bottom: 5px;
+}
+
+.fa-facebook-square .facebook-group-name {
+  font-size: 60%;
+}
+
+.tooltip-social a {
+  text-decoration: none;
+}
+
+.facebook-link a:hover {
+  color: #3b5998;
+}
+
+@media (min-width: 768px) {
+	.bottom .bottomcenter {
+		margin-left: 13%;
+	}
+	
+	.bottom .bottomright {
+		margin-left: 12%;
+	}
+}
+/* ##### Instruktörer */
+.instruktor-image {
+	padding-top: 20px;
+}
+
+.instruktor-roll {
+	height: 50px;
+}
+
+/* ##### Priser */
+.list-group-item-priser {
+	height: 70px;
+}
+
+.panel-heading-priser {
+	height: 68px;
+}
+.price {
+  font-size: 2.5em;
+}
+
+.price-month {
+  font-size: 35%;
+  font-style: italic;
+}
+
+/* ##### Tider */
+.panel-heading-tider {
+	height: 70px;
+}
+
+.panel-primary .panel-heading-bagfight {
+	background-color: rgb(113, 109, 237);
+}
+
+.panel-primary .panel-heading-crossbox {
+	background-color: rgb(111, 139, 202);
+}
+
+.panel-primary .panel-heading-funktionell {
+	background-color: rgb(28, 126, 237);
+}
+
+.panel-primary .panel-heading-karate {
+	background-color: rgb(222, 16, 36);
+}
+
+.panel-primary .panel-heading-karate-junior-11n {
+	background-color: rgb(50, 150, 108);
+}
+
+.panel-primary .panel-heading-karate-junior-11a {
+	background-color: rgb(50, 150, 108);
+}
+
+.panel-primary .panel-heading-karate-junior-7 {
+	background-color: rgb(70, 219, 157);
+}
+
+/* ##### träningsformer */
+.tab-pane-first-content {
+	padding-top: 15px;
+}
+
+/* ##### Half Page Height Carousel Customization */
+.carousel {
+  height: 50%;
+}
+
+.item,
+.active,
+.carousel-inner {
+  height: 100%;
+}
+
+
+.item,
+.active,
+.carousel-inner
+.sponsor {
+  height: 350px;
+}
+
+
+/* ##### jumbotron */
+.jumbotron {
+	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: #C4C4C4;
+}
