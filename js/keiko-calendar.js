@@ -15,6 +15,7 @@ app.controller("keikoEventCalendarController", function ($scope) {
   /* config object */
   $scope.uiConfig = {
     calendar: {
+      lang: 'sv',
       height: 450,
       editable: false,
       header: {
